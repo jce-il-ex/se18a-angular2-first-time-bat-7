@@ -1,4 +1,4 @@
-https://myproject-913bc.firebaseapp.com/
+https://www.google.com/url?q=https%3A%2F%2Fmypro-113da.firebaseapp.com%2F&sa=D&sntz=1&usg=AFQjCNH1Ze_ix0DQbNFNnr8sQx-Fu6iK1A
 # Angular 2 create and delpoy for first time
  First time creating and deploying angular2 app
 
